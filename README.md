@@ -1,3 +1,3 @@
 # Sandbox
 
-You will recieve a confirmation email.
+You will receive a confirmation email.
