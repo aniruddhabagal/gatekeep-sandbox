@@ -1,2 +1,2 @@
-def slug(s: str) -> str:
-    return s.strip().lower().replace(" ", "-")
+def slug(value: str) -> str:
+    return value.strip().lower().replace(" ", "-")
